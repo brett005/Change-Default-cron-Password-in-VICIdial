@@ -5,7 +5,7 @@ How to Change Default CRON Password in VICIdial
 
 cd /usr/share/astguiclient
 
-wget https://github.com/liveafzal/Change-Default-cron-Password-in-VICIdial.git
+wget https://github.com/liveafzal/Change-Default-cron-Password-in-VICIdial/blob/main/ADMIN_update_cron_pass.pl
 
 chmod +x ADMIN_update_cron_pass.pl
 
